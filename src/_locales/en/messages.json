@@ -1,0 +1,8 @@
+{
+    "appName": {
+        "message": "EasyCopyLink"
+    },
+    "appDesc": {
+        "message": "You can copy page link from right-click menu to clipboard in various formats: Title, URL, Title+URL, HTML, Markdown, RichText."
+    }
+}
