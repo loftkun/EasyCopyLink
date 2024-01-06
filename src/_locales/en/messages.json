@@ -4,5 +4,8 @@
     },
     "appDesc": {
         "message": "You can copy page link from right-click menu to clipboard in various formats: Title, URL, Title+URL, HTML, Markdown, RichText."
+    },
+    "notification": {
+        "message": "This extension does not work on special pages (such as chrome:// or Chrome Web Store) due to the functional limitations of the Chrome extension API"
     }
 }

@@ -29,3 +29,9 @@ The available formats that can be copied are as follows:
 
 "RichText" is a text with link that can be clicked on to open in a browser, making it useful for pasting into chat rooms such as Slack.
 
+## Notes
+
+This extension does not work on special pages as followings, due to the functional limitations of the Chrome extension API ( `chrome.scripting.executeScript` ).
+
+- Chrome settings page ( `chrome://` )
+- Chrome Web Store ( `https://chromewebstore.google.com` )
