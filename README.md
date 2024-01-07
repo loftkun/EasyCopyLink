@@ -16,6 +16,11 @@ Please install from [chrome web store](https://chrome.google.com/webstore/detail
 
 ![](img/02.png)
 
+You can turn display on/off from the menu of this extension,
+so you can display only the formats you use most often in the right-click menu.
+
+![](img/03.png)
+
 ## available formats
 
 The available formats that can be copied are as follows:
