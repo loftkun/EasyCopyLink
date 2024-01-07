@@ -16,6 +16,11 @@ Please install from [chrome web store](https://chrome.google.com/webstore/detail
 
 ![](img/02.png)
 
+You can turn display on/off from the menu of this extension,
+so you can display only the formats you use most often in the right-click menu.
+
+![](img/03.png)
+
 ## available formats
 
 The available formats that can be copied are as follows:
@@ -29,3 +34,9 @@ The available formats that can be copied are as follows:
 
 "RichText" is a text with link that can be clicked on to open in a browser, making it useful for pasting into chat rooms such as Slack.
 
+## Notes
+
+This extension does not work on special pages as followings, due to the functional limitations of the Chrome extension API ( `chrome.scripting.executeScript` ).
+
+- Chrome settings page ( `chrome://` )
+- Chrome Web Store ( `https://chromewebstore.google.com` )

@@ -4,5 +4,8 @@
     },
     "appDesc": {
         "message": "WebサイトのタイトルやURLを様々な形式で右クリックメニューからクリップボードにコピーできます。コピーできる形式は「タイトル」「URL」「タイトル+改行+URL」「HTML」、「Markdown」、チャットなどにリンク付きで貼り付け可能な「RichText」です。"
+    },
+    "notification": {
+        "message": "特殊なページ ( chrome:// や Chromeウェブストア など) では利用できません。"
     }
 }
